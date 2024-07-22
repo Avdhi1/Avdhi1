@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Avdhi1
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning dsa 
+
   
 
 <!---
